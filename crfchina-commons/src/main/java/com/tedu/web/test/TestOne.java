@@ -1,13 +1,15 @@
 package com.tedu.web.test;
 
 public class TestOne {
+
+
 	public TestOne() {
-		return;
+		System.out.println("123");
 	}
 	
 }
 class a{
 	static {
-		System.out.println("1234");
+		String num ="123";
 	}
 }
